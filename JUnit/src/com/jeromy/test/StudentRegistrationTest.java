@@ -34,8 +34,7 @@ import com.jeromy.code.Courses;
 
 @SpiraTestConfiguration( 
 		url = "https://rmit-university.spiraservice.net", 
-		login = "s3717004", 
-		password = "IamCazmo98!!",
+		login = "s3717004",
 		projectId = 466,
 		releaseId = 364
 )
